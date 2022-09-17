@@ -1,5 +1,6 @@
 #include<iostream>
 #include<string>
+#include"printer.h"
 using namespace std;
 
 
